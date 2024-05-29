@@ -1,0 +1,78 @@
+.login-page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: #fff;
+}
+
+.login-page-panel-l{
+    width: 50vw;
+    height: 400px;
+    margin-top: calc(50vh - 200px);
+    background-image: url(../../../../base/assets/Logo_500x286.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-right: solid 1px #4bb14450;
+}
+
+.login-page-panel-r{
+    width: 50vw;
+    height: 400px;
+    margin-top: calc(50vh - 200px);
+}
+
+.login-page-panel-r-form{
+    display: grid;
+    margin: 50px 15%;
+}
+
+.login-page-panel-r-form-button{
+    background-color: var(--button-background-color) !important;
+    font-size: 18px;
+    margin-top: 10px;
+    color: var(--color-4) !important;
+    height: 46px;
+    font-weight: 700;
+}
+
+.login-page-panel-r-form-label{
+    margin-bottom: 5px;
+    color: var(--font-color-2);
+    font-family: Nekst-Light;
+    font-size: 16px;
+    text-align: left;
+    padding: 0px 30px;
+    font-weight: 600;
+}
+
+.login-page-panel-r-form-input-icon{
+    color: var(--font-color-2);
+    cursor: pointer;
+}
+
+.login-page-panel-r-form-input-icon:hover{
+    color: var(--green-1);
+}
+
+.login-page-panel-r-form-panel-bottom{
+    display: flex;
+    font-size: 16px;
+    margin-top: 10px;
+    font-family: Nekst-Light !important;
+    font-weight: 100 !important;
+    padding: 0px 30px;
+}
+
+.login-page-panel-r-form-check{
+    flex: 1;
+}
+
+.login-page-panel-r-form-label-forgot-password-container{
+    flex: 1;
+    text-align: end;
+    margin: auto;
+}
+
+.login-page-panel-r-form-label-forgot-password-label{
+    cursor: pointer;
+}

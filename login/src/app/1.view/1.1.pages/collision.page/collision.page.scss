@@ -1,0 +1,37 @@
+.collision-page-header{
+    width: calc(100% - 10px);
+    height: 40px;
+    background-color: var(--color-0);
+    padding: 5px;
+    display: flex;
+    border-bottom: solid 1px var(--secundary-4);
+}
+
+.collision-page-header-title{
+    flex: 1;
+    font-size: 18px;
+    color: var(--font-color-2);
+    font-family: Nekst-Medium;
+    line-height: 38px;
+    padding-left: 20px;
+}
+
+.collision-page-execute{
+    width: 300px;
+    margin-left: 20px;
+}
+
+input.collision-page-input{
+    text-transform: uppercase;
+}
+
+.collision-page-response{
+    font-size: 18px;
+    color: var(--font-color-2);
+    font-family: Nekst-Medium;
+    display: block;
+    margin: 30px 20px 0px 20px;
+    overflow-x: auto;
+    border-top: solid 1px var(--button-border-cancel-color);
+    padding-top: 20px;
+}

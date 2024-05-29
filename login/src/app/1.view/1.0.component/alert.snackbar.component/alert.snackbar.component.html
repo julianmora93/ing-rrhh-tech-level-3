@@ -1,0 +1,43 @@
+<!-- <div class="alert-snack-component-success">
+    <span class="alert-snack-component-success-lbl" matSnackBarLabel>
+        <mat-icon class="alert-snack-component-success-icon" fontIcon="check_circle"></mat-icon>
+        {{ data.informationText }}
+    </span>
+    <span matSnackBarActions>
+        <button mat-button matSnackBarAction class="alert-snack-component-success-btn" (click)="snackBarRef.dismissWithAction()">Cerrar</button>
+    </span>
+</div> -->
+
+<!-- <div class="alert-snack-component-error">
+    <span class="alert-snack-component-error-lbl" matSnackBarLabel>
+        <mat-icon class="alert-snack-component-error-icon" fontIcon="cancel"></mat-icon>
+        {{ data.informationText }}
+    </span>
+    <span matSnackBarActions>
+        <button mat-button matSnackBarAction class="alert-snack-component-error-btn" (click)="snackBarRef.dismissWithAction()">Cerrar</button>
+    </span>
+</div> -->
+
+
+<div [ngClass]="{
+    'alert-snack-component-success': data.dialogType === 2, 
+    'alert-snack-component-error': data.dialogType === 3
+}">
+    <span matSnackBarLabel [ngClass]="{
+        'alert-snack-component-success-lbl': data.dialogType === 2, 
+        'alert-snack-component-error-lbl': data.dialogType === 3
+    }">
+        <mat-icon fontIcon="{{iconMessage}}" [ngClass]="{
+            'alert-snack-component-success-icon': data.dialogType === 2, 
+            'alert-snack-component-error-icon': data.dialogType === 3
+        }"></mat-icon>
+        {{ data.informationText }}
+    </span>
+    <span matSnackBarActions>
+        <button mat-button matSnackBarAction (click)="snackBarRef.dismissWithAction()"
+        [ngClass]="{
+            'alert-snack-component-success-btn': data.dialogType === 2, 
+            'alert-snack-component-error-btn': data.dialogType === 3
+        }">{{data.buttonText}}</button>
+    </span>
+</div>

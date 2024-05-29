@@ -1,0 +1,63 @@
+:host {
+    display: flex;
+    background-color: transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(255,255,255,1);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(255,255,255,1);
+    box-shadow: 0px 0px 10px 0px rgba(255,255,255,1);
+}
+
+//-- Successful
+
+.alert-snack-component-success {
+    flex: 1;
+    display: flex;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.alert-snack-component-success-lbl {
+    font-family: Nekst-Medium;
+    color: var(--color-2);
+}
+
+.alert-snack-component-success-icon {
+    color: var(--color-2);
+    font-size: 26px;
+    margin-bottom: -5px;
+}
+
+.alert-snack-component-success-btn{
+    color: var(--font-color-1) !important;
+    background-color: var(--color-2);
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+//-- Error
+
+.alert-snack-component-error {
+    flex: 1;
+    display: flex;
+    border-radius: 4px;
+    background-color: #ff0000;
+}
+
+.alert-snack-component-error-lbl {
+    font-family: Nekst-Medium;
+    color: var(--font-color-1);
+}
+
+.alert-snack-component-error-icon {
+    color: var(--font-color-1);
+    font-size: 26px;
+    margin-bottom: -5px;
+}
+
+.alert-snack-component-error-btn {
+    color: var(--color-2)!important;
+    background-color: var(--font-color-1);
+    margin-right: 10px;
+    font-size: 14px;
+    font-family: Nekst-Medium;
+}

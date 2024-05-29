@@ -1,0 +1,23 @@
+<div class="login-page">
+    <div class="login-page-panel-l"></div>
+    <div class="login-page-panel-r">
+        <form [formGroup]="loginForm" (ngSubmit)="onLogin()" class="login-page-panel-r-form">
+            <mat-label class="login-page-panel-r-form-label">User</mat-label>
+            <mat-form-field appearance="outline">
+                <input matInput placeholder="Write your email" formControlName="user">
+            </mat-form-field>
+            <mat-label class="login-page-panel-r-form-label">Password</mat-label>
+            <mat-form-field appearance="outline">
+                <input matInput [type]="hidePassword ? 'password' : 'text'" autocomplete="one-time-code" placeholder="Write your password" formControlName="password">
+                <mat-icon matSuffix (click)="hidePassword = !hidePassword" [matTooltip]="hidePassword ? 'Show password' : 'Hide password'" class="login-page-body-form-input-icon">{{hidePassword ? 'visibility_off' : 'visibility'}}</mat-icon>
+            </mat-form-field>
+            <button mat-flat-button class="login-page-panel-r-form-button">Sign in</button>
+            <div class="login-page-panel-r-form-panel-bottom">
+                <mat-checkbox class="login-page-panel-r-form-check">Remember me</mat-checkbox>
+                <div class="login-page-panel-r-form-label-forgot-password-container">
+                    <mat-label class="login-page-panel-r-form-label-forgot-password-label">Forgot your password?</mat-label>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

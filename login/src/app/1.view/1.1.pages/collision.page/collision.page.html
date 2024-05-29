@@ -1,0 +1,27 @@
+<div class="default-container">
+    <div class="collision-page-header">
+        <span class="collision-page-header-title">Collision Counter</span>
+    </div>
+    <mat-progress-bar mode="indeterminate" *ngIf="showProgressBar()"></mat-progress-bar>
+    <form [formGroup]="form" class="default-form-container">
+        <div class="default-form-container-column-container">
+            <div class="default-form-container-column-container">
+                <mat-label class="default-form-container-column-container-label">Symbol sequence L or R</mat-label>
+                <mat-form-field appearance="outline" class="default-form-container-column-container-input">
+                    <input matInput placeholder="L/R" formControlName="sequence" maxlength="100" (input)="onInput($event)">
+                    <mat-error class="default-form-container-column-container-input-error" align="end" *ngIf="form.controls['sequence'].hasError('required')">
+                        You must add a sequence
+                    </mat-error>
+                    <mat-error class="default-form-container-column-container-input-error" align="end" *ngIf="form.controls['sequence'].hasError('pattern')">
+                        Only L or R characters are allowed.
+                    </mat-error>
+                </mat-form-field>
+            </div>
+            <div class="default-form-container-column-container">
+                <button mat-raised-button color="primary" class="default-btn-accept collision-page-execute" [disabled]="showProgressBar()" (click)="onExecute()">Calculate collisions</button>
+            </div>
+        </div>
+    </form>
+
+    <label class="collision-page-response">{{ responseText() }}</label>
+</div>

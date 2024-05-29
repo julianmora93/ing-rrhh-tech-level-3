@@ -1,0 +1,28 @@
+.start-page-container{
+    padding: 0px 20px;
+    width: calc(100% - 70px);
+}
+
+.start-page-title{
+    color: var(--color-2);
+    padding: 10px;
+    font-family: Nekst-Medium;
+}
+
+.start-page-subtitle{
+    font-family: Nekst-Light;
+    color: var(--color-1);
+    padding-left: 10px;
+}
+
+.start-page-img{
+    width: 500px;
+    margin-left: calc(50% - 250px);
+    margin-top: 20px;
+}
+
+.start-page-img-2{
+    width: 190px;
+    margin-left: calc(50% - 95px);
+    margin-top: 40px;
+}
