@@ -1,0 +1,11 @@
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Ingenian.Lambda.Login.deps.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Ingenian.Lambda.Login.runtimeconfig.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Ingenian.Lambda.Login.pdb
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Ingenian.Module.Common.pdb
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\AWSSDK.CognitoIdentityProvider.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\AWSSDK.Core.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Ingenian.Module.Common.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Login\bin\Release\net6.0\publish\Ingenian.Lambda.Login.dll

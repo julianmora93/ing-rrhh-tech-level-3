@@ -1,0 +1,8 @@
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Ingenian.Lambda.Collision.deps.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Ingenian.Lambda.Collision.runtimeconfig.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Ingenian.Lambda.Collision.pdb
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Lambda.Collision\bin\Release\net6.0\publish\Ingenian.Lambda.Collision.dll

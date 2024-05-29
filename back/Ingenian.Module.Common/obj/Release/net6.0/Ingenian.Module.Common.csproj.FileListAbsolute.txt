@@ -1,0 +1,14 @@
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\bin\Release\net6.0\Ingenian.Module.Common.deps.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\bin\Release\net6.0\Ingenian.Module.Common.runtimeconfig.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\bin\Release\net6.0\Ingenian.Module.Common.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\bin\Release\net6.0\Ingenian.Module.Common.pdb
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.AssemblyInfoInputs.cache
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.AssemblyInfo.cs
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.csproj.CoreCompileInputs.cache
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.sourcelink.json
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\refint\Ingenian.Module.Common.dll
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.pdb
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\Ingenian.Module.Common.genruntimeconfig.cache
+D:\Desarrollo\MoCaTech\ing-rrhh-tech-level-3\back\Ingenian.Module.Common\obj\Release\net6.0\ref\Ingenian.Module.Common.dll

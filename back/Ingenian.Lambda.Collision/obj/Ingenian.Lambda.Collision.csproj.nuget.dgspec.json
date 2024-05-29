@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\Ingenian.Lambda.Collision.csproj": {}
+  },
+  "projects": {
+    "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\Ingenian.Lambda.Collision.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\Ingenian.Lambda.Collision.csproj",
+        "projectName": "Ingenian.Lambda.Collision",
+        "projectPath": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\Ingenian.Lambda.Collision.csproj",
+        "packagesPath": "C:\\Users\\mora0\\.nuget\\packages\\",
+        "outputPath": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mora0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Module.Common\\Ingenian.Module.Common.csproj": {
+                "projectPath": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Module.Common\\Ingenian.Module.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Module.Common\\Ingenian.Module.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Module.Common\\Ingenian.Module.Common.csproj",
+        "projectName": "Ingenian.Module.Common",
+        "projectPath": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Module.Common\\Ingenian.Module.Common.csproj",
+        "packagesPath": "C:\\Users\\mora0\\.nuget\\packages\\",
+        "outputPath": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Module.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mora0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
