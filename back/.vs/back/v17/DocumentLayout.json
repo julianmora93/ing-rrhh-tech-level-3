@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC1CEB9-42E2-4AD5-BC51-7B8847281D3C}|Ingenian.Lambda.Collision\\Ingenian.Lambda.Collision.csproj|d:\\desarrollo\\mocatech\\ing-rrhh-tech-level-3\\back\\ingenian.lambda.collision\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC1CEB9-42E2-4AD5-BC51-7B8847281D3C}|Ingenian.Lambda.Collision\\Ingenian.Lambda.Collision.csproj|solutionrelative:ingenian.lambda.collision\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 1293,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,11 +26,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\Function.cs",
+              "RelativeDocumentMoniker": "Ingenian.Lambda.Collision\\Function.cs",
+              "ToolTip": "D:\\Desarrollo\\MoCaTech\\ing-rrhh-tech-level-3\\back\\Ingenian.Lambda.Collision\\Function.cs",
+              "RelativeToolTip": "Ingenian.Lambda.Collision\\Function.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:32:05.328Z",
+              "EditorCaption": ""
             }
           ]
         }

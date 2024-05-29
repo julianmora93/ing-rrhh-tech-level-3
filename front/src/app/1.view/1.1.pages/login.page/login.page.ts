@@ -42,10 +42,8 @@ export default class LoginPage implements ContractNetworkingAccountOutput {
     hidePassword: boolean = true;
 
     loginForm: FormGroup = this._formBuilder.group({
-        // user: new FormControl('', Validators.required),
-        // password: new FormControl('', Validators.required)
-        user: new FormControl('ingeniansoftware_test_001@yopmail.com', Validators.required),
-        password: new FormControl('Password123.*1', Validators.required)
+        user: new FormControl('', Validators.required),
+        password: new FormControl('', Validators.required)
     });
 
     constructor(
