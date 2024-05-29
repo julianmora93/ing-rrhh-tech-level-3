@@ -17,3 +17,7 @@ Para demostrar mis conocimientos, resolví la prueba que se me envió y encontra
 ### Punto 1: [Colisiones](./colisiones/README.md)
 ### Punto 2: [Opinión](./opinion/README.md)
 ### Punto 3: [Login](./login/README.md)
+
+### Propuesta de diseño: [Front](http://ingenian-software-test.s3-website-us-east-1.amazonaws.com/login)
+
+### Usuarios de pueba: [Usuarios Front](./front/README.md)
